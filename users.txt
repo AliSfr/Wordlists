@@ -1,0 +1,12 @@
+anonymous
+admin
+administrator
+telnet
+ssh
+ftp
+rdp
+cisco
+root
+sa
+mssql
+mysql
